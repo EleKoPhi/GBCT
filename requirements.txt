@@ -4,4 +4,4 @@ et-xmlfile==1.0.1
 jdcal==1.4.1
 openpyxl==3.0.2
 pyserial==3.4
-setuptools==39.1.0
+setuptools==65.5.1
